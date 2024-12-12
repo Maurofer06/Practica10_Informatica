@@ -1,6 +1,6 @@
 /*
  * Esta es una practica de encender alternativamente dos LEDS 
- * Autor: Mauro Fernandez 
+ * Autor: Mauro Fernandez
  * Data: 12/12/2024
 */
 
